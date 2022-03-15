@@ -1,23 +1,22 @@
 <h1 align="center"> <strong> Typescript Rocketseat - MasterClass 07 </strong> </h1>
-<h2 align="center"> Início do TypeScript - App simples front e back </h2>
+<h3 align="center"> Início do TypeScript - App simples front e back </h3>
 
 <br>
 
-<h3>👨🏼‍💻 Instrutor</h3>
+<h2>👨🏼‍💻 Instrutor</h2>
 <a href="https://github.com/diego3g">Diego Fernandes</a>
 <br>
 <img src="https://avatars.githubusercontent.com/diego3g" width="110px" height="110px">
-<br>
 <a href="https://www.youtube.com/watch?v=0mYq5LrQN1s">MasterClass 07</a>
 
 <br>
 
-<h3>⭐ Objetivos deste repo</h3>
+<h2>⭐ Objetivos deste repo</h2>
 <p>Entender de forma básica o TypeScript usando ele em um projeto simples criando um backend (API) e um frontend para mostrarmos as informações</p>
 
 <br>
 
-<h3>🔬 Tecnologias / Linguagens usadas neste repo</h3>
+<h2>🔬 Tecnologias / Linguagens usadas neste repo</h2>
 <ul>
     <li>TypeScript</li>
     <li>Node</li>
@@ -30,7 +29,7 @@
 
 <br>
 
-<h3>📷 Imagens de algumas partes do projeto</h3>
+<h2>📷 Imagens de algumas partes do projeto</h2>
 <br>
 <img src="./.github/dados api.png">
 <p>Dados sendo mostrados no front</p>
